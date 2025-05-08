@@ -23,3 +23,15 @@ It dynamically loads real-time product data using the [DummyJSON Products API](h
    git add .
    git commit -m "Initial commit"
    git push -u origin main
+
+
+   blinkit-clone/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── assets/
+│   └── (image files here)
+└── README.md
+
